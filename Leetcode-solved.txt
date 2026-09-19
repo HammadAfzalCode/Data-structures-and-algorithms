@@ -1,3 +1,4 @@
 List of leetcode solved problems
 
 1- Two Sum
+2- Contains Duplicate

@@ -11,3 +11,5 @@ function constainsDuplicate(nums) {
 }
 
 console.log(constainsDuplicate([1, 2, 3, 1]));
+
+// time complexity is nlogn

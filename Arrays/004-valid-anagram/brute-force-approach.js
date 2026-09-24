@@ -1,5 +1,5 @@
 function validAnagram(s, t) {
-  if (s.length == !t.length) return false;
+  if (s.length !== t.length) return false;
 
   let tArray = t.split("");
 

@@ -1,0 +1,6 @@
+Move All Zeros to the End
+Write a JavaScript program to move all the zeros in an array to the end while maintaining the relative order of the non-zero elements. Do not use any built-in JavaScript functions.
+Input Example:
+nums = [1, 1, 1, 0, 0, 0, 2, 2, 2]
+Expected Output:
+[1, 1, 1, 2, 2, 2, 0, 0, 0]

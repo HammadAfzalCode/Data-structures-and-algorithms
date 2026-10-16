@@ -1,0 +1,6 @@
+Find Missing Number in an Array
+Write a JavaScript program to find the missing number in an array containing n distinct integers from 1 to n + 1.
+Input Example:
+arr = [1, 2, 4, 6, 3, 7, 8]
+Expected Output:
+5

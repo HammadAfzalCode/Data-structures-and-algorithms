@@ -1,0 +1,6 @@
+Move All Negatives to the Beginning
+Write a JavaScript program to move all negative numbers in an array to the beginning, while keeping the relative order of non-negative numbers intact. Do not use any built-in JavaScript functions.
+Input Example:
+arr = [1, -1, 3, -2, 4, -5]
+Expected Output:
+[-1, -2, -5, 1, 3, 4]

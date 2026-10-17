@@ -1,0 +1,6 @@
+Find the Product of All Elements in an Array
+Write a JavaScript program to find the product of all elements in an array.
+Input Example:
+arr = [1, 2, 3, 4]
+Expected Output:
+24

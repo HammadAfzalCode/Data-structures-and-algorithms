@@ -1,0 +1,10 @@
+Check If Array is Palindrome
+Write a JavaScript program to check if an array is palindrome (same forwards and backwards).
+Input Example:
+arr = [1, 2, 3, 2, 1]
+Expected Output:
+true
+Input Example:
+arr = [1, 2, 3, 4, 5]
+Expected Output:
+false

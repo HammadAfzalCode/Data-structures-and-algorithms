@@ -1,0 +1,11 @@
+Check If Array Contains a Specific Element
+Write a JavaScript program to check if a specific element exists in an array.
+Input Example:
+arr = [1, 2, 3, 4, 5]
+target = 3
+Expected Output:
+true
+Input Example:
+arr = [1, 2, 3, 4, 5]
+target = 6
+Expected Output:

@@ -4,7 +4,7 @@ function rotateArray(arr, k) {
   let result = [];
   for (let i = 0; i < arr.length; i++) {
     let newIndex = (i - k + n) % n; // for rotating the array to left
-    // let newIndex = (i -k) % n for rotating to the right
+    // let newIndex = (i +k) % n for rotating to the right
     result[newIndex] = arr[i];
   }
   for (let i = 0; i < arr.length; i++) {
